@@ -11,7 +11,7 @@ Ah oui et le serv web tourne en root donc..
 ensuite on trouve les noms des user : ezboard et bien sur user as pass sur le telnet.. (ezboard:ezboard)
 
 MAIS YA MIEU
-
+```
 ---------------------------- login.php ----------------------------
 <? require "cfg_cmd.php"; ?>
 
@@ -50,7 +50,7 @@ MAIS YA MIEU
         echo "OK";
     }
 ?>
-
+```
 ------------------------------------------------------------------------------------
 
 CA LA, CA, C'EST LE CODE DE LA PAGE DE LOGIN.. 
